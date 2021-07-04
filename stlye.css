@@ -1,0 +1,51 @@
+.body ,html{
+    font-family: sans-serif;
+    background-image:url(af8d63a477078732b79ff9d9fc60873f.jpg);
+}
+.box{
+    justify-content: center;
+    width: 60%;
+    background-image:url(af8d63a477078732b79ff9d9fc60873f.jpg);
+    border: darkgray solid;
+    border-radius: 10px;
+    margin: 200px auto;
+}
+.main-header{
+    padding: 4px;
+    color: darkgoldenrod;
+}
+.main-header .profile-cont img{
+    width: 70%;
+    border-radius: 30px;
+    border: darkgoldenrod solid;
+}
+.section-header{
+    display: flex;
+    float: left;
+}
+.section-header-cont img{
+    width: 70%;
+    border-radius: 30px;
+    border: darkgoldenrod solid;
+}
+.left{
+    background-color: darkgray;
+    border-radius: 30px;
+    width: 40%;
+    justify-content: center;
+    justify-items: center;
+    padding: 4px;
+    margin: 4px;
+}
+.left img{
+    width: 45%;
+    border: white solid;
+    margin: 20px;
+}
+.botton-section-cont button{
+   padding: 4px;
+   margin: 2px;
+   border-radius: 10px;
+   border: darkgray solid;
+   background-color: transparent;
+}
